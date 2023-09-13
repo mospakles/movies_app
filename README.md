@@ -2,9 +2,7 @@
 # <img src = "https://media4.giphy.com/media/AuZXGzk5qKRpG54Ewl/giphy.gif?cid=ecf05e47jgpe7u14fp4yhajmqlmiy1jlf4xw5npgof5lr2qo&rid=giphy.gif&ct=s" width="45"> Watcho
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f3dd54aa-fd47-4ed5-bdaa-e6248062c6ad/deploy-status)](https://app.netlify.com/sites/watcho-app/deploys)
 
->Welcome to the 🎬 ``` Watcho ``` app! Watcho allows user to browse and search for their favorite movies or being based on any particular genre like horror, action, mystry, crime, family, fantasy, romance, music, and much More. Explore our app and you would fall in love 😍 for sure.
-
-Author : [Sayan Maity](sayancr777@gmail.com)
+>Welcome to this movie app! Watcho allows user to browse and search for their favorite movies or being based on any particular genre like horror, action, mystery, crime, family, fantasy, romance, music, and much more..
 
 <p align="center">
   <img src="https://github.com/Sayan-Maity/Watcho/blob/main/assets/banner.png" alt="banner">
@@ -74,16 +72,4 @@ Author : [Sayan Maity](sayancr777@gmail.com)
     </tr>
 </table>
 
-
-## ⏳ Future Improvements :
-
-- [ ] Add a bookmark page to store the user's favorite movies and tv shows
-- [ ] Add the video playing feature when the user hover over the card and play the video
-- [ ] Add authentication so that the user can sign up and log in to save their favorite movies and tv shows permanently
-
-
-## 📝 Endnote
-So if you have liked this project then do consider giving it a star which will encourage me to build more of this kind of projects in future and also if you want youcan follow me on [Github](https://github.com/Sayan-Maity/) 😊
-Keep Coding !
-
-<p align="right">~ Sayan Maity</p>
+<p align="right">Motunrayo Odusina </p>
